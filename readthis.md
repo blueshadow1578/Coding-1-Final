@@ -1,0 +1,3 @@
+    This website is a framework for a future website. I may utilize it for a framework for things like a business website or, for personal use. It displays my images and text talking about me. Also giving people a chance to find and contact me at any time. Also, it could double as a family website that could be used to tell stories or legacy to our future generation with easy access to many stories names and pictures of our family and get to know how their parents or event their parents' parents lives at the tips of our fingers. Just an idea I thought of awhile ago. 
+
+ 

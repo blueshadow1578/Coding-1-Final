@@ -1,0 +1,75 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+
+h6 {
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+
+p {
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+li{
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+#contact-background {
+  background: linear-gradient(to left top, blue, lime) fixed;
+}
+
+#about-background {
+  background: linear-gradient(to left top, lime, red) fixed;
+}
+
+#home-background {
+  background: linear-gradient(to left top, red, blue) fixed;
+
+}
+
+#home-background-nav {
+  background: linear-gradient(to left top, red, blue) fixed;
+}
+
+#about-background-nav background: linear-gradient(to left top, lime, red) fixed;
+}
+
+#contact-background-nav {
+  background: linear-gradient(to left top, blue, lime) fixed;
+}
+.smol-2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.smol{
+  width: 150px;
+  height: auto;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  color: white;
+  text-align: center;
+}
+#carouselExampleIndicators{
+  width: 400px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
