@@ -20,11 +20,13 @@ p {
   font-size: 22px;
   color: white;
 }
-li{
+
+li {
   text-align: center;
   font-size: 22px;
   color: white;
 }
+
 #contact-background {
   background: linear-gradient(to left top, blue, lime) fixed;
 }
@@ -42,34 +44,54 @@ li{
   background: linear-gradient(to left top, red, blue) fixed;
 }
 
-#about-background-nav background: linear-gradient(to left top, lime, red) fixed;
+#about-background-nav {
+  background: linear-gradient(to left top, lime, red) fixed;
 }
 
 #contact-background-nav {
   background: linear-gradient(to left top, blue, lime) fixed;
 }
-.smol-2{
+
+.smol-2 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 300px;
 }
-.smol{
+.about-text {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.smol {
   width: 150px;
   height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 .footer {
-  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-
   color: white;
   text-align: center;
 }
-#carouselExampleIndicators{
+
+#carouselExampleIndicators {
   width: 400px;
   height: auto;
   margin-left: auto;
   margin-right: auto;
+}
+.info {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:lime;
+}
+.about {
+  color:blue;
+}
+hr {
+  border: 2px solid black;
+  border-radius: 2px;
 }
